@@ -1,0 +1,4 @@
+#Tue Jul 24 16:03:23 PDT 2018
+base.0=/Users/christiangingrich/Documents/WebDev/Projects/trendy2/trendymap/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/christiangingrich/Documents/WebDev/Projects/trendy2/trendymap/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
